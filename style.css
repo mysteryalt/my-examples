@@ -1,0 +1,22 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+img {
+border-width: 5px;
+border-color: blueviolet;
+border-style: inherit;
+}
+.container
+{
+    text-align: center;
+}
+
+
+#mycarousel1 {
+background-color: aquamarine;    
+}
+#mycarousel2 {
+background-color: rgb(255, 255, 255);    
+}
